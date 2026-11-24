@@ -1,4 +1,4 @@
-const STORAGE_KEY='attendly_class_data_v1';
+Membuat Website Absensi Kelas const STORAGE_KEY='attendly_class_data_v1';
 
 const defaultNames = [
   "AISYAH HARI AFIKA LIAWATI",
